@@ -26,10 +26,11 @@ SECRET_KEY = 'django-insecure-+j(3-+zg((ia)6nya!izusmig@#ut784q2(ym*+uo)^0!ff(v_
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '192.168.14.107',
+    '192.168.14.106',
     '192.168.8.108',
     '127.0.0.1',
-    'localhost'
+    'localhost',
+    'https://smart-trash-bin-exnthjmwi-phambaanhtuans-projects.vercel.app'
 ]
 
 
